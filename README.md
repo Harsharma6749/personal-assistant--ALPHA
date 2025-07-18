@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Alpha - Voice-Controlled Personal Assistant
 
 **Alpha** is a virtual assistant built with HTML, CSS, and JavaScript that listens to voice commands, responds using speech synthesis, performs Google searches, greets users, and can even open your system camera in the browser!
@@ -35,3 +36,7 @@
 
 ---
 
+=======
+# personal-assistant--ALPHA
+Alpha is a virtual assistant built with HTML, CSS, and JavaScript that listens to voice commands, responds using speech synthesis, performs Google searches, greets users, and can even open your system camera in the browser!
+>>>>>>> f0bde3eb99f0c8480dbbd32ede775836548994fd
