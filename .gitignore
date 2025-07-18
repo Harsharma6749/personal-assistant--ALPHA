@@ -1,0 +1,46 @@
+# Node modules (if you use Node.js for any part of the project)
+node_modules/
+
+# Dependency directories (such as npm or yarn)
+bower_components/
+
+# Logs
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files (VSCode, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# Build and temporary files
+/dist/
+/build/
+/tmp/
+
+# Package distribution files
+*.tgz
+*.zip
+
+# Environment variables
+.env
+
+# Git directories (if any)
+.git/
+
+# Windows specific files
+*.bak
+*.swp
+
+# Ignore files for web projects
+*.css.map
+*.js.map
+
+# Ignore system files
+*.DS_Store
+
+# Ignore compiled HTML, CSS, JS files (if you don't want them tracked)
+*.min.css
+*.min.js
